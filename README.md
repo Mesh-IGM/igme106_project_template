@@ -12,7 +12,7 @@ _This README contains basic information about the project and its artifacts. If 
 - MEMBER5
 
 ## Other Resources
-- [Google Documentation](TBD)Link to the team's Google Doc with written project documentation
+- [Google Documentation](TBD) - Link to the team's Google Doc with written project documentation
 - [MonoGame Documentation](http://www.monogame.net/documentation/?page=main)
 - [Course homepage](https://esmesh.github.io/RIT-IGME-106/)
 - This [UML class diagram reference](https://www.uml-diagrams.org/class-reference.html) probably has more than you'll need, but it's a good starting point.
