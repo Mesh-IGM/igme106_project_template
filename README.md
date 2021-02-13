@@ -10,6 +10,10 @@ _This README contains basic information about the project and its artifacts. If 
 - MEMBER4
 - MEMBER5
 
+## Repo Organization
+- [game/](game/) - Contains the main MonoGame project. Notes about how to run the game are in [game/README.md](game/README.md).
+- [data_files/](data_files/) - Contains data files loaded at runtime. Notes about how to use these are in [data_files/README.md](data_files/README.md).
+
 ## Other Resources
 - [Google Documentation](TBD) - Link to the team's Google Doc with written project documentation
 - [MonoGame Documentation](http://www.monogame.net/documentation/?page=main)
