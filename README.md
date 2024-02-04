@@ -1,5 +1,5 @@
 # **GAME TITLE** by TEAM_NAME
-## IGME-106 Spring 2023
+## IGME-106 Spring 2024
 
 _This README contains basic information about the project and its artifacts. If kept up to date, it will act as a primary dashboard for the project._
 
