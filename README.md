@@ -1,23 +1,23 @@
 # **GAME TITLE** by TEAM_NAME
-## IGME-106 Spring 2024
+## IGME-106 Spring 2025
 
 _This README contains basic information about the project and its artifacts. If kept up to date, it will act as a primary dashboard for the project._
 
-## Team Members
+## Overview
+### Team Members
 - MEMBER1
 - MEMBER2
 - MEMBER3
 - MEMBER4
-- MEMBER5
 
-## Repo Organization
-- [game/](game/) - Contains the main MonoGame project. Notes about how to run the game are in [game/README.md](game/README.md).
-- [resources/](resources/) - Contains any extra resources the team used/created during design & development (e.g. spreadsheets, notes, etc.) 
-See [resources/README.md](resources/README.md) for details.
+### High Concept
+_Write a *brief* summary of the game. Who is the player? What is their objective? What is the core mechanic that helps them progress?_
 
-## Other Resources
+### Team Artifacts
+- [Team Documentation](TBD) - Link to the team's Google Doc with written project documentation based on the [class template](https://docs.google.com/document/d/1WGPmqIiotSd6HCaVUD_K1zFxrxVTOeWTxrCNCpBh0lk/edit?usp=sharing)
 - [Task management Board](TBD) - Link to the team's project board based on this [Trello template](https://trello.com/b/FYbymkCg/template-gdd-project-board)
-- [Google Documentation](TBD) - Link to the team's Google Doc with written project documentation based on the [class template](https://docs.google.com/document/d/1Lom3OQ_XgbtvXoVCYa113UcY4q7x3yPT32sZIBy6vDo/edit?usp=share_link)
+
+### Other Resources
 - [MonoGame Documentation](http://www.monogame.net/documentation/?page=main)
-- [Course homepage](https://mycourses.rit.edu/d2l/home/1012413)
+- [IGME-106 Coding Standards](https://people.rit.edu/edcigm/gdaps/CodingStandards.html)
 - This [UML class diagram reference](http://agilemodeling.com/artifacts/classDiagram.htm) probably has more than you'll need, but it's a good starting point. (That site in general has a lot of great resources.)
